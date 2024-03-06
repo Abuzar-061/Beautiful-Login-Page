@@ -9,7 +9,7 @@ Experience the paw-some world of dog-themed login forms with my beautifully desi
 
 ## Usage
 
-To use the code snippet component in your project, follow these steps:
+To use this component in your project, follow these steps:
 
 Linux and macOS:
 
